@@ -12,4 +12,5 @@
     <color name="neutral_three">#557280</color>
     <color name="neutral_two">#A7B6BD</color>
     <color name="neutral_one">#E9ECEF</color>
+    <color name="shadow_rectangle">#F2F2F2</color>
 </resources>

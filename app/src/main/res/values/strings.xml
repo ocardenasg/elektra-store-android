@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Elektra</string>
+    <!-- common placeholders -->
+    <string name="component_placeholder">Lorem Ipsum</string>
+    <string name="text_placeholder">Lorem Ipsum is simply dummy text</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="principal_banner_description">principal banner</string>
+    <!-- component titles -->
+    <string name="login_title">¡Crea una cuenta y personaliza tu experiencia!</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="login_text">Iniciar sesión</string>
 </resources>

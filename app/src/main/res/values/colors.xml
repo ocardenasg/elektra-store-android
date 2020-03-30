@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- COLOR PALETTE -->
-    <color name="grayBackground">#F7F7F7</color>
-    <color name="accentThree">#FEDD00</color>
-    <color name="accentTwo">#42A5F5</color>
-    <color name="accentOne">#EF5350</color>
+    <color name="gray_background">#F7F7F7</color>
+    <color name="accent_three">#FEDD00</color>
+    <color name="accent_two">#42A5F5</color>
+    <color name="accent_one">#EF5350</color>
     <color name="white">#FFFFFF</color>
-    <color name="primaryVariant">#80DEEA</color>
+    <color name="primary_variant">#80DEEA</color>
     <color name="primary">#00BCD4</color>
-    <color name="neutralBackground">#303E46</color>
-    <color name="neutralThree">#557280</color>
-    <color name="neutralTwo">#A7B6BD</color>
-    <color name="neutralOne">#E9ECEF</color>
+    <color name="neutral_background">#303E46</color>
+    <color name="neutral_three">#557280</color>
+    <color name="neutral_two">#A7B6BD</color>
+    <color name="neutral_one">#E9ECEF</color>
 </resources>

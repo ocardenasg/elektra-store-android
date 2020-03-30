@@ -9,7 +9,6 @@
         android:id="@+id/banner"
         android:layout_width="match_parent"
         android:layout_height="240dp"
-        android:layout_margin="16dp"
-        android:contentDescription="@string/principal_banner_description" />
+        android:contentDescription="@string/component_placeholder" />
 
 </FrameLayout>

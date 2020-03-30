@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <!-- COLOR PALETTE -->
+    <color name="grayBackground">#F7F7F7</color>
+    <color name="accentThree">#FEDD00</color>
+    <color name="accentTwo">#42A5F5</color>
+    <color name="accentOne">#EF5350</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primaryVariant">#80DEEA</color>
+    <color name="primary">#00BCD4</color>
+    <color name="neutralBackground">#303E46</color>
+    <color name="neutralThree">#557280</color>
+    <color name="neutralTwo">#A7B6BD</color>
+    <color name="neutralOne">#E9ECEF</color>
 </resources>

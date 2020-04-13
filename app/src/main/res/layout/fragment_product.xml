@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".components.Product">
+
+    <ImageView
+        android:id="@+id/product_image"
+        android:layout_width="156dp"
+        android:layout_height="156dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/shadow_rectangle"
+        android:contentDescription="@string/component_placeholder"
+        app:srcCompat="@drawable/product" />
+
+    <TextView
+        android:id="@+id/product_last_price"
+        style="@style/previous_price_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_price" />
+
+    <TextView
+        android:id="@+id/product_price"
+        style="@style/current_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_price" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:src="@drawable/logo_elektra_credit" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/extra_small_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="2dp"
+            android:text="@string/credit_text_one" />
+
+        <TextView
+            android:id="@+id/product_credit_price"
+            style="@style/credit_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_price" />
+
+        <TextView
+            android:layout_marginStart="2dp"
+            style="@style/extra_small_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/credit_text_two" />
+    </GridLayout>
+
+
+</LinearLayout>

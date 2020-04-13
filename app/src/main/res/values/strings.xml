@@ -8,4 +8,10 @@
     <string name="login_title">¡Crea una cuenta y personaliza tu experiencia!</string>
     <string name="create_account">Crear cuenta</string>
     <string name="login_text">Iniciar sesión</string>
+    <string name="credit_text_one">Desde</string>
+    <string name="credit_text_two">semanales</string>
+    <string name="text_price">$1,000</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

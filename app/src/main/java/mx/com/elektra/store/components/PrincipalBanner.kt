@@ -32,8 +32,8 @@ class PrincipalBanner : Fragment() {
 
         Picasso.get()
             .load(bannerUrl)
-            .placeholder(android.R.drawable.screen_background_light)
-            .error(android.R.drawable.screen_background_dark_transparent)
+            .placeholder(R.drawable.banner_primary)
+            .error(R.drawable.banner_primary)
             .into(bannerImageView)
 
         return bannerView
